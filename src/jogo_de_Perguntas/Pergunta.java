@@ -32,7 +32,7 @@ public class Pergunta {
                  JOptionPane.showMessageDialog(null,"Você acertou!!!");
             }
             else {
-                JOptionPane.showMessageDialog(null,"Errou de novo");
+                JOptionPane.showMessageDialog(null,"Errou");
             }
         }
         else {
